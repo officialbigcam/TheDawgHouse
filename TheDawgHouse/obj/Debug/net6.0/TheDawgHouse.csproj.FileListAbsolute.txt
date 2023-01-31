@@ -1,0 +1,5 @@
+C:\Users\Camer\source\repos\TheDawgHouse\TheDawgHouse\obj\Debug\net6.0\TheDawgHouse.csproj.AssemblyReference.cache
+C:\Users\Camer\source\repos\TheDawgHouse\TheDawgHouse\obj\Debug\net6.0\TheDawgHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camer\source\repos\TheDawgHouse\TheDawgHouse\obj\Debug\net6.0\TheDawgHouse.AssemblyInfoInputs.cache
+C:\Users\Camer\source\repos\TheDawgHouse\TheDawgHouse\obj\Debug\net6.0\TheDawgHouse.AssemblyInfo.cs
+C:\Users\Camer\source\repos\TheDawgHouse\TheDawgHouse\obj\Debug\net6.0\TheDawgHouse.csproj.CoreCompileInputs.cache
